@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('include/head.ejs') %>
+    <body>
+        <%- include('include/header.ejs') %>
+            <div class="container p-5 shadow-lg">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                        <header>
+                            <h2 class="mb-4">Certification</h2>
+                            <p class="lead">API JSON<a href="./api/certification" class="p-3"><i class="bi bi-box-arrow-up-right"></i></a></p>
+                        </header>
+                        <article>
+                            <% certification_content.forEach(certification => { %>
+                                <div class="row">
+                                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
+                                        <div class="row">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                                <p><%= certification.year %></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12">
+                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                                            <p class="h4"><%= certification.certification_institution %></p>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                                <p class="lead"><%= certification.certification_description %>
+                                                    <% if (certification.url !== '' ) { %>
+                                                    <a href="<%= certification.url %>">
+                                                        <i class="bi bi-box-arrow-up-right"></i>
+                                                    </a>
+                                                    <% }; %>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <% }); %>
+                        </article>
+                    </div>
+                </div>
+            </div>
+    </body>
+</html>

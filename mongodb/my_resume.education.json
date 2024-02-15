@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6521b19e550d10a3b64be6a2"
+  },
+  "page_title": "Frank Lobe - Education",
+  "education_content": [
+    {
+      "logo": "University_York.png",
+      "program": "Bachelor of Commerce (BCom)",
+      "url": "https://sas.laps.yorku.ca/bcom/",
+      "year": 1996
+    }
+  ]
+}]

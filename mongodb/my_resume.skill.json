@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "651ef2bc4206b3f2c1c09861"
+  },
+  "page_title": "Frank Lobe - Skill",
+  "All": [
+    "APIs",
+    "Bootstrap",
+    "CSS",
+    "Django",
+    "Django REST Framework",
+    "Express",
+    "HTML",
+    "JavaScript",
+    "JSON",
+    "Matplotlib",
+    "MongoDB",
+    "NodeJS",
+    "NumPy",
+    "Pandas",
+    "Progress OpenEdge 4GL/ABL",
+    "Python",
+    "REST",
+    "Scikit-Learn",
+    "Seaborn",
+    "StatsModels",
+    "TypeScript",
+    "XML"
+  ],
+  "Machine Learning Engineering": [
+    "APIs",
+    "JSON",
+    "Matplotlib",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "REST",
+    "Scikit-Learn",
+    "Seaborn",
+    "StatsModels",
+    "XML"
+  ],
+  "Progress OpenEdge 4GL/ABL Application Development": [
+    "APIs",
+    "JSON",
+    "Progress OpenEdge 4GL/ABL",
+    "REST",
+    "XML"
+  ],
+  "Website Development": [
+    "APIs",
+    "Bootstrap",
+    "CSS",
+    "Django",
+    "Django REST Framework",
+    "Express",
+    "HTML",
+    "JavaScript",
+    "JSON",
+    "MongoDB",
+    "NodeJS",
+    "Python",
+    "REST",
+    "TypeScript",
+    "XML"
+  ]
+}]

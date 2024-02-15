@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "651f009e4206b3f2c1c09863"
+  },
+  "page_title": "Frank Lobe - Employment",
+  "employment_content": [
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "Rocket Pro TPO",
+      "date_range": "Apr 2021 - Oct 2022",
+      "logo": "Rocket.jpg",
+      "title": "Senior Application Developer and Architect (Consultant)",
+      "url": "https://www.rocketprotpo.com/",
+      "telephone": "+1 (844) 937-7567",
+      "employment_points": [
+        "Developed the Enhanced Non-delegated Correspondent Lending Channel, a groundbreaking product bridging the gap between wholesale lending and traditional non-delegated correspondent lending.",
+        "Led the comprehensive analysis to identify existing functionalities for leverage and areas requiring new or modified features.",
+        "Created a high-level architectural design for the project, providing a solid foundation for development.",
+        "Successfully modified the legacy system, AMP, to accommodate various mortgage and application package types while complying with state-specific legislation.",
+        "Achieved seamless integration with middleware and the web front end using REST APIs.",
+        "Developed machine learning models used in the creation of mortgage applications and disclosure documentation.",
+        "Managed the entire project, being involved in every aspect and stage from ideation to completion.",
+        "Successfully launched the product in all fifty American states, contributing significantly to Rocket Mortgage's financial performance."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "Portfolio+",
+      "date_range": "Jul 2019 - Oct 2019",
+      "logo": "Portfolio.png",
+      "title": "Senior Application Developer and Architect (Consultant)",
+      "url": "https://www.portfolioplus.com/",
+      "telephone": "+1 (905) 640-0808",
+      "employment_points": [
+        "Engaged in system analysis and design of an open banking application.",
+        "Converted business requirements related to loans, mortgages, term deposits, investments, and retail banking to technical specifications.",
+        "Created and modified REST APIs following business requirements and technical specifications."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "IFDS",
+      "date_range": "Aug 2016 - Jun 2019",
+      "logo": "IFDS.png",
+      "title": "Senior Application Developer and Architect (Consultant)",
+      "url": "https://www.ifdsgroup.com/",
+      "telephone": "+1 (416) 506-8000",
+      "employment_points": [
+        "Developed a pioneering solution to reduce foreign exchange spreads on transactions, potentially saving millions of dollars by optimizing the timing of money movement.",
+        "Successfully integrated IFDS's legacy system, iFast, with Bank of America's Instinct system, enabling currency exchange at a transaction level based on market rates.",
+        "Created ECHO, a groundbreaking product that consolidated seven data feeds into a unified stream of information, providing traders with valuable insights into their next day's cash position.",
+        "Led the development of seven cutting-edge APIs for Sun Life, enhancing the capabilities of the existing web front end within the iFast system.",
+        "Ensured seamless integration of the APIs, significantly improving functionality, efficiency, and user experience for Sun Life's clients and stakeholders.",
+        "Successfully launched ECHO to hundreds of State Street clients, empowering them with enhanced visibility and predictive capabilities for cash management.",
+        "Contributed to the growth and success of IFDS, State Street, and Sun Life's technology ecosystems through innovative solutions and effective project management."
+      ]
+    },
+    {
+      "attachment": "SchmuzziUserManual.pdf",
+      "attachment_description": "Schmuzzi User's Manual",
+      "company_name": "Schmuzzi",
+      "date_range": "Dec 2009 - Jul 2016",
+      "logo": "Schmuzzi.png",
+      "title": "Founder",
+      "url": "",
+      "telephone": "",
+      "employment_points": [
+        "A software company that I founded.",
+        "Specialized in content management software for resume websites.",
+        "Subscribers could deploy a resume website to their own domain name.",
+        "Each subscriber had their own database and became the website administrator.",
+        "Goal: Move interview information to the front of the hiring process.",
+        "Employers and clients could research subscribers through Schmuzzi websites.",
+        "Subscribers could market themselves like corporations, becoming a brand.",
+        "Functionality and content separation in Schmuzzi websites.",
+        "Customization with no technical skills needed.",
+        "Database-driven, highly customizable platform.",
+        "Schmuzzi as an extension to employment and networking websites.",
+        "Subscribers could link their Schmuzzi website to other platforms.",
+        "Each subscriber had their unique Schmuzzi instance on their domain.",
+        "Shifted focus to solving tech problems in financial services after market failure.",
+        "As President & CEO, I took Schmuzzi from concept to launch."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "B2B Bank",
+      "date_range": "Jan 2014 - Oct 2015",
+      "logo": "B2B.png",
+      "title": "Senior Application Developer and Architect",
+      "url": "https://b2bbank.com/",
+      "telephone": "+1 (800) 263-8349",
+      "employment_points": [
+        "Handle the back-office brokerage system (CPS) that B2B Bank had purchased from the Multiple Retirement Services (MRS) division of Mackenzie Investments while navigating complex legacy systems.",
+        "Implemented Fundserv ESG 24 and 25 and was extensively involved with the transaction reconciliation file functionality.",
+        "Effectively utilized my technical skills and deep understanding of CPS to incorporate Fundserv functionalities seamlessly.",
+        "Integrated CANNEX for GIC products and created two archive solutions for historical information related to B2B Bank's integration of SIT and AGF."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "Accenture",
+      "date_range": "Jun 2007 - Nov 2009",
+      "logo": "Accenture.png",
+      "title": "Senior Consultant",
+      "url": "https://www.accenture.com/ca-en",
+      "telephone": "+1 (416) 641-5000",
+      "employment_points": [
+        "Led a transformative project for the Bank of Montreal, successfully integrating Norkom's advanced anti-money laundering solution into their existing systems.",
+        "Oversaw the solution's seamless integration across personal and commercial banking, capital markets, and Mastercard transaction flows.",
+        "Implemented advanced algorithms to scan transactions for suspicious patterns and behaviors associated with money laundering activities, specifically targeting international terrorist and criminal organizations.",
+        "Facilitated the prompt forwarding of identified profiles to international law enforcement and intelligence agencies for further investigation.",
+        "Managed the vendor relationship with Norkom, ensuring effective collaboration and successful solution implementation.",
+        "Successfully managed and coordinated nine distinct development, quality assurance, and user acceptance testing environments.",
+        "Led the implementation of upgrades across multiple data centers located throughout Canada, ensuring efficient and up-to-date operations."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "Constellation Financing Systems",
+      "date_range": "Mar 2006 - Jun 2007",
+      "logo": "Constellation.png",
+      "title": "Senior Application Developer and Architect",
+      "url": "https://www.constellationfs.com/",
+      "telephone": "+1 (289) 291-4999",
+      "employment_points": [
+        "Provided system analysis, design, and development of a finance lease and loan application.",
+        "Developed functionality related to application credit scoring.",
+        "Created features associated with contract disposal."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "MacKenzie Financial",
+      "date_range": "May 2003 - Jan 2006",
+      "logo": "Mackenzie.png",
+      "title": "Senior Application Developer and Architect (Consulting)",
+      "url": "https://www.mackenzieinvestments.com/en",
+      "telephone": "+1 (416) 922-5322",
+      "employment_points": [
+        "Led the development of an advanced defined contribution pension system on the CPS platform.",
+        "Developed a reconciliation report within CPS that facilitated the efficient reconciliation of general ledger accounts.",
+        "Undertook a comprehensive rewrite of CPS's pre-authorized credit maintenance screens, enhancing the user experience and optimizing the system's structure.",
+        "Replaced the manual process by introducing an automated cheque reconciliation system within CPS, improving efficiency and accuracy.",
+        "Built functionality within CPS to capitalize on trading gains from trade reversals or corrections. By integrating this functionality, the system identified opportunities for increased profitability from favorable trade outcomes.",
+        "Designed and developed the dealer wholesale pricing platform, a new billing platform that allowed billing dealers directly instead of clients.",
+        "Orchestrated the successful transfer of assets from National Bank to MacKenzie Financial on behalf of Investor's Group, involving a substantial value of approximately 4.8 billion dollars in cash and assets."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "Dynamic Funds",
+      "date_range": "May 2001 - May 2003",
+      "logo": "Dynamic.png",
+      "title": "Senior Application Developer and Architect",
+      "url": "https://dynamic.ca/",
+      "telephone": "+1 (800) 268-8186",
+      "employment_points": [
+        "Spearheaded Fundserv ESG help files implementation projects leading versions 11 through 14. All of these projects were implemented successfully and on time, including several areas of functionality that had failed in prior releases.",
+        "Played a key role in multiple Fundserv implementations, leading four projects. Successfully managed a team of developers and ensured smooth execution while navigating complex legacy systems.",
+        "Focused on important Fundserv files, such as order, settlement instruction, and transaction reconciliation files, demonstrating meticulous attention and expertise in these critical components, which formed the foundation of the Fundserv integration.",
+        "Effectively utilized my technical skills and deep understanding of Corfax. This enabled me to seamlessly incorporate Fundserv functionalities, resulting in efficient order processing, accurate settlement instructions, and transaction reconciliation.",
+        "Owned the downloading inventory records for back-end load transactions during the conversion to IFDS's system.",
+        "Contributed to system analysis, design, and development concerning resolving various defects."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "MacKenzie Financial",
+      "date_range": "Jul 2000 - May 2001",
+      "logo": "Mackenzie.png",
+      "title": "Intermediate Application Developer",
+      "url": "https://www.mackenzieinvestments.com/en",
+      "telephone": "+1 (416) 922-5322",
+      "employment_points": [
+        "Led the development of a cutting-edge dealer agreement tracking system.",
+        "Spearheaded a comprehensive revamp of the CCRA registered account reporting system, leveraging CPS as the platform.",
+        "Undertook a complete overhaul of the IRS compliance reporting system, transforming it from the ground up using CPS.",
+        "Embarked on the ambitious task of rewriting CPS's market value reporting system.",
+        "Developed innovative solutions to transform reporting and tracking processes with CPS."
+      ]
+    },
+    {
+      "attachment": "",
+      "attachment_description": "",
+      "company_name": "IFDS",
+      "date_range": "Aug 1998 - Jul 2000",
+      "logo": "IFDS.png",
+      "title": "Intermediate Application Developer",
+      "url": "https://www.ifdsgroup.com/",
+      "telephone": "+1 (416) 506 8000",
+      "employment_points": [
+        "Developed a groundbreaking solution in collaboration with IFDS, leveraging the robust iFast system to ensure account holders' portfolios align with specific asset allocation strategies.",
+        "Implemented IPM, enabling investors to subscribe to models and generate adjusting transactions to maintain the desired asset allocation.",
+        "Successfully spearheaded the project as a project lead, overseeing its execution from start to finish, ensuring its successful completion.",
+        "Introduced the Canadian Fundserv model to the European market, defining file data standards and implementing them within the iFast system.",
+        "Streamlined data transfer and automated critical functions like account reconciliation, order placement, transaction settlement, and accountholder information changes.",
+        "Fostered enhanced collaboration and information exchange between financial institutions, optimizing operational efficiency.",
+        "Developed processes to convert all currency-dependent data elements of accountholders from sovereign currencies to euros.",
+        "Implemented new user interface elements and robust business logical processes in the iFast system.",
+        "Ensured comprehensive coverage and accuracy in the currency conversion process, maintaining data integrity throughout the system-wide infrastructure."
+      ]
+    }
+  ]
+}]

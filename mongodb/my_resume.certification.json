@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6521a8a494ce8e18d7cc2c9b"
+  },
+  "page_title": "Frank Lobe - Certification",
+  "certification_content": [
+    {
+      "certification_description": "Understanding TypeScript",
+      "certification_institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-9ffc718e-e101-487d-bad8-81ef60127c91/",
+      "year": 2023
+    },
+    {
+      "certification_description": "ES6 Javascript: The Complete Developer's Guide",
+      "certification_institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-199569dd-f511-48a9-ba2f-4ab8c7ce30f0/",
+      "year": 2023
+    },
+    {
+      "certification_description": "Asynchronous JavaScript: Promises, Callbacks, Async, Await",
+      "certification_institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-a789bd33-072d-49b9-abf3-f1f5890025db/",
+      "year": 2023
+    },
+    {
+      "certification_description": "Object-oriented Programming in JavaScript",
+      "certification_institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-97e8483f-2684-41e8-844b-479dffd2152b/",
+      "year": 2023
+    },
+    {
+      "certification_description": "JavaScript Basics for Beginners",
+      "certification_institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-5a76504d-747d-4398-9fa2-c9bedea02e84/",
+      "year": 2023
+    },
+    {
+      "certification_description": "The Complete Python Bootcamp from Zero to Hero in Python",
+      "certification_institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-c7d5b4e6-445d-447f-9df6-23137dda6722/",
+      "year": 2023
+    },
+    {
+      "certification_description": "Python Django - The Practical Guide",
+      "certification_institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-694956c6-44af-44a1-9dd7-677d45ae3835/",
+      "year": 2023
+    }
+  ]
+}]
